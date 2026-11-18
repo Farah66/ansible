@@ -3,11 +3,11 @@
 
 admin_user: admin
 
-admin_group: sudo
+admin_group: wheel
 
 ansible_pull_repo: "https://github.com/Farah66/ansible"
 
-managed_service: ssh
+managed_service: sshd
 
 packages:
   - curl
