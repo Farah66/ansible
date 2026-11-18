@@ -5,7 +5,7 @@ admin_user: admin
 
 admin_group: sudo
 
-ansible_pull_repo: "https://github.com/Farah66/ansible
+ansible_pull_repo: "https://github.com/Farah66/ansible"
 
 managed_service: ssh
 
